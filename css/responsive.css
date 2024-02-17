@@ -189,7 +189,7 @@
   main img{width:100%;}
 
   /* _____Claymorphism_____ */
-  #claymorphism{height:800px;}
+  #claymorphism{height:1000px;}
   .clay{max-width:100%;}
   .clay_contents{
     width:95%;
@@ -212,8 +212,8 @@
   #bigfont h2{display:none;}
   .big_text{
     display:inline-block;
-    font-size:80px;
-    font-size:5.625rem;
+    font-size:70px;
+    font-size:4.375rem;
     text-align:center;
     width:100%;
     padding-top:20px;
@@ -221,13 +221,14 @@
   .bf span:nth-of-type(2){display:none;}
 
   /* _____Dark Mode_____ */
-  #darkmode{height:1050px;}
+  #darkmode{height:1200px;}
   .dm{max-width:100%;}
   .dm_con1{width:95%;}
   .dm_con2{width:95%;}
   .dm_con3, .dm_con4{display:none;}
   
   /* _____Gradation_____ */
+  #gradation{height: 1200px;}
   .gra{max-width:100%;}
   .gradation1, .gradation2{display:none;}
   .gradation4 span{
